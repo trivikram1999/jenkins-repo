@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Tomcat_war</finalName>
+    <finalName>Tomcat_war_new</finalName>
   </build>
 </project>
